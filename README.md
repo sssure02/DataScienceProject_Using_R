@@ -1,9 +1,17 @@
-# Predicting Bike Rental Demand [My First Data Science Project]
+# ✨Predicting Bike Rental Demand 
 
-#### In this project, I was able to
-- Perform EDA using the bike-sharing dataset from the UCI Machine Learning Repository.
-- Train five models (multiple linear regression, generalized least squares, KNN, Random Forest, GAM) using this dataset.
-- Find out that KNN provides better predictions.
-<br>
+### Project Overview
+I am excited to share my first data science project, where I focused on predicting bike rental demand using the bike-sharing dataset from the UCI Machine Learning Repository.
 
-#### For more information about the dataset and my findings, look at the summary.ipynb.  
+### Key Achievements
+#### Exploratory Data Analysis (EDA): Conducted a thorough EDA to uncover patterns, trends, and insights within the dataset.
+#### Model Training: Trained five different models:
+* Multiple Linear Regression
+* Generalized Least Squares (GLS)
+* K-Nearest Neighbors (KNN)
+* Random Forest
+* Generalized Additive Model (GAM)
+####  Model Evaluation: Evaluated and compared the test RMSE of all models, discovering that KNN provided the most accurate predictions.
+
+### Further Details
+For a detailed breakdown of the project, including methodology, results, and key takeaways, please refer to Summary.ipynb.
