@@ -14,4 +14,4 @@ I am excited to share my first data science project, where I focused on predicti
 ####  Model Evaluation: Evaluated and compared the test RMSE of all models, discovering that KNN provided the most accurate predictions.
 
 ### Further Details
-For a detailed breakdown of the project, including methodology, results, and key takeaways, please refer to Summary.ipynb.
+For a detailed breakdown of the project, including methodology, results, and key takeaways, click [here](Summary.ipynb).
